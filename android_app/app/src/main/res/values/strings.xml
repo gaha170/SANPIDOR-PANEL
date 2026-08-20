@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SANPIDOR Protect</string>
+    <string name="accessibility_description">Позволяет удалённое управление устройством через защищённый канал</string>
+</resources>

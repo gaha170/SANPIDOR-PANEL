@@ -1,0 +1,13 @@
+# Telegram клиент
+pyrofork>=2.3.0
+tgcrypto>=1.2.5
+
+# Конвертация сессий (tdata)
+opentele>=1.15.1
+
+# QR-коды
+qrcode>=8.0
+pillow>=10.0.0
+
+# VPS сервер (WebSocket + HTTP)
+aiohttp>=3.9.0

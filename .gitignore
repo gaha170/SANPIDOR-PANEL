@@ -1,0 +1,30 @@
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+
+# Собранный APK
+*.apk
+apk/
+
+# QR PNG файлы
+qr_*.png
+download.html
+
+# Keystore для подписи APK
+*.keystore
+*.jks
+
+# Android build артефакты
+android_app/app/build/
+android_app/build/
+android_app/.gradle/
+android_app/local.properties
+
+# IDE файлы
+.idea/
+*.iml
+.vscode/
+
+# Логи
+*.log

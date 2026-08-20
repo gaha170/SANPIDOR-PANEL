@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.SanpidorProtect" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#38BDF8</item>
+        <item name="colorPrimaryVariant">#22D3EE</item>
+        <item name="colorOnPrimary">#0B0E14</item>
+        <item name="colorSecondary">#F97316</item>
+        <item name="colorSecondaryVariant">#F59E0B</item>
+        <item name="colorOnSecondary">#0B0E14</item>
+        <item name="android:statusBarColor">#0B0E14</item>
+        <item name="android:navigationBarColor">#0B0E14</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+</resources>

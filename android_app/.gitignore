@@ -1,0 +1,30 @@
+# Add Gradle wrapper files
+!gradle/wrapper/gradle-wrapper.jar
+!gradlew
+!gradlew.bat
+
+# Built APK files
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Build folders
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE files
+.idea/
+*.iml
+local.properties
+.DS_Store
+
+# Keystore (НЕ коммитить в продакшен!)
+*.keystore
+*.jks
+
+# Logs
+*.log
